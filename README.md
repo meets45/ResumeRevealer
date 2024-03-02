@@ -8,6 +8,7 @@
 - [Track](#track)
 - [Sponsor](#sponsor)
 - [Project Overview](#project-overview)
+- [Project Demo](#project-demo)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -32,6 +33,11 @@ This project is proudly sponsored by [Revelio Labs](https://www.reveliolabs.com/
 ## Project Overview
 
 ResumeRevealer is a Python program designed to automate the process of parsing resumes. The tool intelligently analyzes resumes, extracting crucial information such as skills and details about a person, making it easier for recruiters to assess candidates quickly and effectively.
+
+## Project Demo
+
+The working of the project is available on the link below, feel free to check it!
+https://drive.google.com/file/d/1wV6gcpfJJryF08dmrk7LYH0VqDG_gdMk/view?usp=sharing
 
 ## Features
 
